@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:            Hillside Projects
+title:            Fam illustration
 email:            info@hillsideprojects.se
 description:      A research/production group formed by Emily Mennerdahl and Jonas Böttern.
 baseurl:          '' # The subpath of your site, e.g. /blog
@@ -45,7 +45,7 @@ defaults:
 # Authors
 authors:
   hillsideprojects:
-    name:             Hillside Projects
+    name:             Hillside Projects 
     bio:              A research/production group formed by Emily Mennerdahl and Jonas Böttern. Hillside Projects are based in Stockholm, Sweden. Their studio is located in Hagsätra. Hillside Projects are members of <a href="http://idigalleri.org/" target="blank">ID:I Galleri</a> in Stockholm.
     gravatar:         https://s.gravatar.com/avatar/f83141edd9e6339e678648596a403fd5?s=150
     email:            info@hillsideprojects.se
