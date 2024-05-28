@@ -11,14 +11,14 @@ Education (Berry Mennerdahl)
 * 2016-2017	The Dissemination of the Photographic Artist Book, Royal Institute of Art, Stockholm 60 hp.
 * 2008-2009	Independent Study Programme, Valand Academy of Arts, University of Gothenburg.
 * 2005-2008	MFA Studio Arts, Concordia University, Montréal, Canada.
-* 2001-2004	BA (Hons) Photography. 1st class honors. Manchester School of Art, Manchester, UK
+* 2001-2004	BA (Hons) Photography. 1st class honors. Manchester School of Art, Manchester, UK.
 
 Education (Böttern)
 
 * 2021-2022     Sound in Interaction, Konstfack University College of Art, Crafts and Design. 30 hp. 
 * 2021-2022      Performing Sustainability - The Photographic Artist Book, Royal Institute of Art, Stockholm. 60 hp.
 * 2019-2020     Public Art, Social Dimensions, ecologies and changes, Konstfack University             College of Art, Crafts and Design. 30 hp.
-* 2013-2016	MFA Fine Arts, Konstfack University College of Arts, Crafts and Design
+* 2013-2016	MFA Fine Arts, Konstfack University College of Arts, Crafts and Design.
 
 Solo Exhibitions (Hillside Projects)
 
