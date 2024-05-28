@@ -1,0 +1,38 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+# publish_mode: editorial_workflow
+media_folder: "images" # Media files will be stored in the repo under images/uploads
+collections:
+  - label: "Pages" # Used in the UI
+    name: "pages" # Used in routes, e.g., /admin/collections/blog
+    label_singular: "Page"
+    folder: "_pages" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Subtitle", name: "details", widget: "string"}
+      - {label: "Exclude page from menu", name: "exclude", widget: "boolean", default: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - label: "Projects" # Used in the UI
+    label_singular: "Project"
+    name: "projects" # Used in routes, e.g., /admin/collections/blog
+    folder: "_posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Author", name: "author", widget: "hidden", default: "hillsideprojects"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Tagline", name: "details", widget: "string"}
+      - {label: "Place on top as featured project", name: "featured", widget: "boolean", default: false}
+      - {label: "Image to use in homepage", name: "image", widget: "image"}
+      - label: "Gallery images"
+        name: "slider"
+        widget: "list"
+        fields:
+          - {label: "Image", name: "image", widget: "hidden", default: ""}
+          - {label: "Image", name: "slide_url", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}

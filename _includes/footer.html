@@ -1,0 +1,58 @@
+<footer class="footer">
+  <div class="row">
+
+    <div class="column large-12 footer__section">
+      <nav class="navigation">
+        <ul class="list-bare footer__nav text-center">
+          {% for page in site.pages %}
+            {% unless page.name == '404.md' %}
+              {% if page.title %}
+                <li>
+                  <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                </li>
+              {% endif %}
+            {% endunless %}
+          {% endfor %}
+          <li><a class="subscribe-button icon-feed" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">RSS</a></li>
+        </ul>
+      </nav>
+    </div>
+
+    <div class="column large-12 footer__section">
+      <ul class="list-bare footer__nav social-icons text-center">
+        {% if site.facebook_username %}
+        <li>
+          <a href="http://www.facebook.com/{{ site.facebook_username }}" target="_blank">
+            <span data-icon="ei-sc-facebook" data-size="s"></span>
+          </a>
+        </li>
+        {% endif %}
+
+        {% if site.vimeo_username %}
+        <li>
+          <a href="http://www.vimeo.com/{{ site.vimeo_username }}" target="_blank">
+            <span data-icon="ei-sc-vimeo" data-size="s"></span>
+          </a>
+        </li>
+        {% endif %}
+
+        {% if site.email %}
+        <li>
+          <a href="mailto:{{ site.email }}" target="_blank">
+            <span data-icon="ei-envelope" data-size="s"></span>
+          </a>
+        </li>
+        {% endif %}
+      </ul>
+    </div>
+
+    <div class="column large-12 footer__section">
+      <div class="text-center">
+        <div class="font-tiny">
+          &copy; {{ site.time | date: '%Y' }} {{ site.title }}
+        </div>
+      </div>
+    </div>
+
+  </div>
+</footer>
