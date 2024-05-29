@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:            Fam illustration
+title:            FAM
 email:            famartwork@gmail.com
 description:      A research/production group formed by Emily Mennerdahl and Jonas Böttern.
 baseurl:          '' # The subpath of your site, e.g. /blog
