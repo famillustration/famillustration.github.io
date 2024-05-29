@@ -52,6 +52,14 @@
         </a>
       </div>
       {% endif %}
+
+      {% if author.behance_username %}
+      <div class="author-link inline-block">
+        <a href="https://www.behance.net/{{author.behance_username}}" target="_blank">
+          <span data-icon="icon--ei-sc-behance" data-size="s"></span>
+        </a>
+      </div>
+      {% endif %}
     </div>
 
   </div><!-- box__body -->

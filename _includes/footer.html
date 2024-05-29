@@ -20,18 +20,29 @@
 
     <div class="column large-12 footer__section">
       <ul class="list-bare footer__nav social-icons text-center">
-        {% if site.facebook_username %}
+        <!-- {% if site.facebook_username %}
         <li>
           <a href="http://www.facebook.com/{{ site.facebook_username }}" target="_blank">
             <span data-icon="ei-sc-facebook" data-size="s"></span>
           </a>
         </li>
-        {% endif %}
+        {% endif %}  deleted by FAM-->
 
         {% if site.instagram_username %}
         <li>
           <a href="https://www.instagram.com/{{site.instagram_username}}" target="_blank">
             <span data-icon="ei-sc-instagram" data-size="s"></span>
+            <!-- icon--ei-sc-instagram  ei-sc-vimeo -->
+          </a>
+        </li>
+        {% endif %}
+
+
+
+        {% if site.behance_username %}
+        <li>
+          <a href="https://www.behance.net/{{site.behance_username}}" target="_blank">
+            <span data-icon="ei-sc-behance" data-size="s"></span>
             <!-- icon--ei-sc-instagram  ei-sc-vimeo -->
           </a>
         </li>

@@ -14,6 +14,7 @@ url:              'https://hillsideprojects.se' # The base hostname & protocol f
 facebook_username: HillsideProjects
 vimeo_username:   user31098743
 instagram_username:   fam.illustration
+behance_username:   famvisualarts
 
 markdown:  kramdown
 permalink: /:title.html
@@ -54,3 +55,4 @@ authors:
     facebook_username: HillsideProjects
     vimeo_username:   user31098743
     instagram_username:   fam.illustration
+    behance:   famvisualarts
