@@ -13,7 +13,7 @@
               {% endif %}
             {% endunless %}
           {% endfor %}
-          <li><a class="subscribe-button icon-feed" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">RSS</a></li>
+          <!-- <li><a class="subscribe-button icon-feed" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">RSS</a></li> -->
         </ul>
       </nav>
     </div>
@@ -28,10 +28,11 @@
         </li>
         {% endif %}
 
-        {% if site.vimeo_username %}
+        {% if site.instagram_username %}
         <li>
-          <a href="http://www.vimeo.com/{{ site.vimeo_username }}" target="_blank">
-            <span data-icon="ei-sc-vimeo" data-size="s"></span>
+          <a href="https://www.instagram.com/{{site.instagram_username}}" target="_blank">
+            <span data-icon="ei-sc-instagram" data-size="s"></span>
+            <!-- icon--ei-sc-instagram  ei-sc-vimeo -->
           </a>
         </li>
         {% endif %}

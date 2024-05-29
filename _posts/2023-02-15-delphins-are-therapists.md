@@ -1,18 +1,17 @@
 ---
 layout: post
 author: hillsideprojects
-title: All the Birds Killed in Air Strikes in the US between 1990 and 2020, 2022
-  (work in progress)
-details: Recycled paper, ring bound, volume of 50. 210mm x 297mm
+title: Delphins are therapists,2023
+details: Illustration using Adobe Illustrator and Photoshop, 2023
 featured: false
-image: /images/all_the_birds_killed_01.jpg
+image: /images/delphins.jpg
 slider:
   - image: ""
-    slide_url: /images/all_the_birds_killed_02.jpg
+    slide_url: /images/delphins.jpg
   - image: ""
-    slide_url: /images/all_the_birds_killed_03.jpg
+    slide_url: /images/delphins2.jpg
   - image: ""
-    slide_url: /images/all_the_birds_killed_04.jpg
+    slide_url: /images/delphins3.jpg
   - image: ""
     slide_url: /images/all_the_birds_killed_05.jpg
   - image: ""

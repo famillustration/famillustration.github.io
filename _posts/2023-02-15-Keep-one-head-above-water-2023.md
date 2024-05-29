@@ -1,15 +1,13 @@
 ---
 layout: post
 author: hillsideprojects
-title: Från äng till kulle till hav vi gick (From Field to Hill to Sea We Went), 2022
-details: Participatory and performative walk, approx. two hours, 20-30
-  participants. Speaker, microphone, natural pigments, rope, alternative
-  photographic processes, tea and chocolate
+title: Keep one's head above water, 2023
+details: Illustration using Adobe Illustrator and Photoshop, 2023
 featured: false
-image: /images/från_äng_till-hav_01.jpg
+image: /images/above_water.jpg
 slider:
   - image: ""
-    slide_url: /images/från_äng_till-hav_01.jpg
+    slide_url: /images/above_water.jpg
   - image: ""
     slide_url: /images/fran_ang_till_kulle_04.jpg
   - image: ""
