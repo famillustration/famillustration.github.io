@@ -10,10 +10,7 @@ slider:
     slide_url: /images/Friendship.png
   - image: ""
     slide_url: /images/Friendship_sketch.png
-  - image: ""
-    slide_url: /images/the_scavenger_collapse_performance_05.jpg
-  - image: ""
-    slide_url: /images/the_scavenger_collapse_performance_01.jpg
+
 ---
 *Foundations of True Friendship* Genuine friendship rests on the pillars of trust, intimacy, and genuine sharing of our life experiences. 
 Trust establishes a secure environment where authenticity thrives without the fear of criticism. Intimacy delves beyond surface-level interactions, fostering a profound connection rooted in unspoken empathy. 

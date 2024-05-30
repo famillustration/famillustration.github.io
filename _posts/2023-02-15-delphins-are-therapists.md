@@ -12,13 +12,11 @@ slider:
     slide_url: /images/delphins2.jpg
   - image: ""
     slide_url: /images/delphins3.jpg
-  - image: ""
-    slide_url: /images/all_the_birds_killed_05.jpg
-  - image: ""
-    slide_url: /images/all_the_birds_killed_01.jpg
 ---
-Since the 1990s, the FAA (Federal Aviation Agency) in the US has collected information on birds killed in collisions with aeroplanes. The FFA’s database covers all the states including information such as bird species, time, weather conditions and location of the crash. 
+Appearances can often be deceiving, revealing a duality between what seems to be and what actually is. This idea reflects the depth of beings and things, and how the surface can sometimes hide unexpected, even disturbing realities.
 
-Through applying a system of translating words into musical notes, Hillside Projects are working towards transforming the birds’ deaths into music. This will in turn be played and performed by a band consisting of Hillside Projects and artist/musician Jonas Holmer.
+Take dolphins, for example, these marine creatures that for many embody grace, intelligence, and benevolence. Their appearance works in their favor, with their perpetual smiles and complex social behaviors. However, this idyllic image hides a lesser-known reality: some male dolphins exhibit aggressive and violent behaviors, including acts of sexual violence towards their peers and even other species.
 
-A﻿s of yet five states have been translated into musical notes. It is a very time consuming task and many states remain to be translated.
+This dissonance between the charming image and the brutal reality reminds us that apparent beauty and innocence can often conceal darker aspects. It encourages us to look beyond appearances and recognize the intrinsic complexity of nature and the beings that compose it.
+
+This reflection invites us to question the obvious and explore the hidden truths beneath the deceptive surface of appearances.
